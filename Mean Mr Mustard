@@ -11,10 +11,15 @@ Many things can be improved:
 - Move belt slightly away from rail, so that it doesn't have a chance to burn into it
   - Reference: Shreddit bro 2023
   - Can print my own thicker flange. Doesn't have to be delrin. 
+  - Take care of belt length!!!
 - Rounder rear to anti-do-the-thing without needing screws...
+  - May still need some "bone" to provide frame rigidity.
 - Better drive motor attachment
   - Old mounts tend to eventually pull out. Look for better methods.
   - Can use TPU on top/bottom panels to absorb impact. (Ref: Buckwild)
+- Look for smaller receiver
+- Add vents
+  - May consider resting weapon ESC on Aluminum panel?
 
 Also many new things to explore: 
 - TPU wheel guard
@@ -22,5 +27,11 @@ Also many new things to explore:
 - First try in belt drive
   - Wheels can be at either front or back. Maybe keep them at back to deal with forks.
   - In addition, this allows more room for internal arrangement
+  - Needs work on:
+    * Picking a shaft mechanism
+    * Printing hubs
+    * Chooosing belts with right length and tension
+    * ?
+- Better drive motors if need to save weight
 - Weapon pulley guard (if possible)
 
