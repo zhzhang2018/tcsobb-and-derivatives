@@ -8,6 +8,7 @@ Many things can be improved:
 - Weapon motor serviceability - would be great if bottom plate can partially be removed when trying to fit a belt
   - Also need to handle an outrunner. Less need for set screws. But need to double check coupling.
   - The motor holder needs to stand rigidly. Can I add an Al bottom rail that slots /dovetails into the main rails?
+    - Alternate: Consider titanium. Less easy to bend than Al. (Ref: Billy's comment in [Maximizer's weapon design video](https://www.youtube.com/watch?v=NMShWf7mldY))
 - Move belt slightly away from rail, so that it doesn't have a chance to burn into it
   - Reference: Shreddit bro 2023
   - Can print my own thicker flange. Doesn't have to be delrin. 
